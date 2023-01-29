@@ -1,0 +1,15 @@
+.box-footer{
+    background-color: rgb(247, 247, 93);
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+
+.box-h2{
+    border: solid 5px red;
+    width: 20%;
+    align-items: center;
+    text-align: center;
+}

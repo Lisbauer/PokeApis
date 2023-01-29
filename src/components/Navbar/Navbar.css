@@ -1,0 +1,37 @@
+.pokebola{
+    width: 130px;
+    height: 130px;
+}
+/* nav{
+    display: flex;
+    justify-content: center;
+} */
+
+nav{
+    background-color: rgb(250, 237, 95);
+}
+.poke-div{
+    display: flex;
+    justify-content: center;
+}
+.search-div{
+    display: flex;
+    justify-content: center;
+    
+}
+.search-div form{
+    margin-left: 10px;
+    }
+
+.search-div button{
+    width: 90px;
+    height: 33px;
+    font-size: 15px;
+}
+.search-div button:hover{
+    box-shadow: black;
+}
+.search-div input{
+    width: 150px;
+    height: 26px;
+}
